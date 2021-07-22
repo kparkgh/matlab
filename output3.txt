@@ -1,0 +1,27 @@
+Vehicle Test
+
+yyyy/mm/dd
+
+Name of Test Engineer
+
+Test Condition ...
+
+Rule:
+First numerical data are located right below the indicator [Data1].
+Second numerical data are located right below the indicator [Data2].
+
+
+[Data1]
+  5.7600000e-001  1.2782370e-003  6.8176664e-002
+  6.7200000e-001  2.2545845e-002  4.0155075e-001
+  7.6800000e-001  7.3499423e-002  5.6935416e-001
+Rule:
+First numerical data are located right below the indicator [Data1].
+Second numerical data are located right below the indicator [Data2].
+
+[Data2]
+    0.7577
+    0.7431
+    0.3922
+    0.6555
+    0.1712
